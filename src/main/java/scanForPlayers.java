@@ -6,7 +6,7 @@ import java.util.List;
 
 public class scanForPlayers {
     public static void main (String[] args) throws IOException {
-
+        System.out.println(scan("localhost"));
     }
 
     public static List<String> scan(String ip) {
@@ -24,7 +24,7 @@ public class scanForPlayers {
             }
             int exitCode = process.waitFor();
             if (exitCode != 0) {
-                System.err.println("Error executing getPlayers.js");
+                System.err.println("Error executing getPlayers.js " + exitCode);
             }
         } catch (IOException e) {
             e.printStackTrace();

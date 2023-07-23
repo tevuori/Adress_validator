@@ -1,4 +1,5 @@
 import me.dilley.MineStat;
+import org.json.JSONException;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -16,7 +17,7 @@ public class Main {
         List<String> ips = new ArrayList<>();
         //Run the entire shit with multithreading
 
-        ExecutorService executor = Executors.newFixedThreadPool(500);
+        ExecutorService executor = Executors.newFixedThreadPool(1000);
 
         //Read file from ips.txt and convert it into usable ArrayList
 
@@ -45,14 +46,22 @@ public class Main {
                 String p3 = "Players: " + ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers();
                 String p4 = "Version: " + ms.getVersion();
                 String p5 = " ";
-                if(ms.getCurrentPlayers() > 0){
-                    String p6 = scanForPlayers.scan(ip).toString();
-                    System.out.println(p6);
 
-                    try {
-                        saveDataTofile(p6);
-                    } catch (IOException e) {
-                        throw new RuntimeException(e);
+                if(ms.isServerUp()){
+                    if(ms.getCurrentPlayers()>1){
+                        String p6 = "Players: "; //This is the list of players
+                        try {
+                            p6 = selfscan.getThem(ip).toString();
+                        } catch (JSONException e) {
+                            throw new RuntimeException(e);
+                        }
+                        System.out.println(p6);
+
+                        try {
+                            saveDataTofile(p6);
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
                     }
                 }
 
