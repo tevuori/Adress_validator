@@ -9046,3 +9046,2179 @@ Motd: {"text":"A Minecraft Server"}
 Players: 1/20
 Version: 1.20
  
+Server: 5.9.122.107 is online
+Motd:             MineCollar University [1.16+]
+Players: 0/500
+Version: >=1.8b/1.3
+Server: 5.249.164.143 is online
+Motd:  HyperSucht.net | Network [1.16.x-1.19.x]
+ 
+Players: 0/1
+Version: >=1.8b/1.3
+ 
+Server: 5.253.246.151 is online
+Server: 5.9.119.233 is online
+Server: 5.196.185.36 is online
+Server: 5.45.110.50 is online
+Server: 2.56.99.146 is online
+Server: 5.135.86.59 is online
+Server: 5.45.104.210 is online
+Server: 5.45.109.51 is online
+Server: 2.56.97.172 is online
+Server: 5.182.33.137 is online
+Server: 5.75.234.92 is online
+Server: 5.39.1.80 is online
+Server: 5.135.24.254 is online
+Server: 3.72.246.220 is online
+Server: 5.39.47.108 is online
+Server: 5.196.185.15 is online
+Server: 5.9.62.197 is online
+Server: 2.59.156.123 is online
+Motd: {"extra":[{"text":"SANSELME Family Survival"}],"text":""}
+Motd: {"text":"HWSF Server"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"HeavyHelmuds Minecraft Server"}
+Motd: {"text":"Serwerek §mnie§bpokojowy §r§o(forge-1.16.5-36.2.0)§r\n§oLista modów: https://mcf2.artrek.ovh/"}
+Motd: {"text":"Minecraft Server by Gnom"}
+Motd: {"text":"ValleJay und OekoZocker Minecraft"}
+Motd: {"text":"gameserver.smtpd.de"}
+Motd: {"text":"Schwerkraftlabor"}
+Motd: {"text":"wertzui.me"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"§6§l     ULT§r§l_§5§lC§5§l§kO§5§lM | §bSupervivencia de gran nivel§r\n§6      ➥ §fCompatible solo con Forge 1.20.1"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"extra":[{"text":"Hello world"}],"text":""}
+Motd: {"text":"§bChroma Technology 2"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"A Wubbly Server :)"}
+Motd: {"text":"A Minecraft Server"}
+Server: 5.9.60.167 is online
+Players: 0/4
+Players: 0/20
+Players: 0/20
+Players: 0/4
+Players: 0/5
+Players: 0/25
+Players: 0/10
+Players: 0/20
+Players: 0/20
+Players: 0/10
+Players: 0/10
+Players: 0/20
+Players: 0/4
+Motd: {"text":"Leons Minecraft Server"}
+Players: 0/20
+Players: 0/10
+Players: 0/20
+Players: 0/20
+Players: 0/24
+Server: 5.51.248.184 is online
+Version: 1.16.5
+Motd: {"text":"A Minecraft Server"}
+Version: 1.16.5
+Version: 1.12.2
+Version: Paper 1.20.1
+Version: Spigot 1.11.2
+Version: 1.20
+Version: 1.19.4
+Version: 1.20.1
+Version: 1.18.1
+Version: 1.19.2
+Version: Paper 1.20
+Version: Spigot 1.19.2
+Version: 1.16.5
+Version: Paper 1.20.1
+Version: Spigot 1.19.2
+Version: Mohist 1.12.2
+Version: Paper 1.20.1
+Version: 1.18.2
+Players: 0/20
+ 
+ 
+Players: 0/20
+ 
+ 
+ 
+ 
+Version: CraftBukkit 1.15.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Server: 5.181.15.19 is online
+Version: 1.19.4
+ 
+ 
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.18.2
+ 
+Server: 5.181.13.231 is online
+Motd: {"text":"Ur mums mienkraft server"}
+Players: 0/20
+Server: 5.181.15.184 is online
+Server: 5.181.13.145 is online
+Motd: {"text":"A CreeperHost Server!"}
+Version: 1.16.4
+Motd: {"text":"A CreeperHost Server!"}
+Server: 5.181.134.171 is online
+Motd: Just another BungeeCord - Forced Host
+Players: 0/10
+ 
+Players: 0/10
+Version: 1.18.2
+Version: 1.18.2
+Players: 0/1
+ 
+ 
+Version: >=1.8b/1.3
+ 
+Server: 5.9.70.70 is online
+Server: 5.9.55.194 is online
+Server: 2.125.115.138 is online
+Motd: {"text":"TDFC7 - throws chair out of window"}
+Motd: {"text":"Brakmar VaultHunters 9.0.3"}
+Motd: {"text":"Wld427 Minecraft 1.18.2"}
+Server: 5.231.151.43 is online
+Server: 5.196.237.242 is online
+Server: 5.62.102.7 is online
+Server: 5.189.162.71 is online
+Players: 0/10
+Players: 0/20
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Motd: {"text":"§c§lDer Server für die §c§l§nFüchse§c§l unter uns§r\n§9§l§kaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}
+Motd: {"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"  ║"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"¡BIENVENIDO"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":" A"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":" MINRECRAFT"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":" EXTREMO!"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"║"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_green","text":"║"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"¡Intenta sobrevivir"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":" solo tienes 3 vidas!"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_green","text":"║"}],"text":""}
+Version: 1.18.2
+Players: 0/100
+Version: 1.20.1
+Motd: {"text":"Kallis Life in the Village 2 Server"}
+Players: 0/4
+Version: 1.18.2
+Players: 0/1337
+Version: 1.20.1
+Version: Spigot 1.19.2
+Version: 1.20.1
+ 
+Players: 0/5
+ 
+ 
+ 
+Version: 1.16.5
+ 
+ 
+Server: 2.59.134.208 is online
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/187
+Version: 1.20.1
+Server: 5.62.124.167 is online
+Server: 5.180.255.9 is online
+Motd: {"extra":[{"extra":[{"color":"#FF0303","text":"Phoenixcraft.eu"},{"text":" "},{"color":"gold","text":"["},{"color":"#FF0AFB","text":"1.8.x"},{"color":"gold","text":"-"},{"color":"#FF0AFB","text":"1.19.x"},{"color":"gold","text":"]"}],"text":"             "},{"text":"\n"},{"extra":[{"color":"dark_blue","text":">>"},{"text":" "},{"color":"#2AFF17","text":"TNTRun"},{"text":" "},{"color":"#AD0023","text":"Bedwars "},{"color":"#FFFF19","text":"Among Us"},{"text":" "},{"color":"dark_blue","text":"<<"}],"text":"           "}],"text":""}
+Motd: {"text":"nitrado.net gameserver"}
+ 
+Players: 0/8
+Players: 0/5
+Version: 1.20.1
+Version: Velocity 1.7.2-1.20
+ 
+ 
+Server: 5.9.66.27 is online
+Motd: {"text":"Lobby"}
+Players: 0/60
+Server: 5.83.164.160 is online
+Server: 5.12.80.102 is online
+Motd: {"text":"sugimypula"}
+Version: Pufferfish 1.19.2
+Motd: {"text":"pascal.wohld@paypal"}
+Server: 2.233.214.190 is online
+ 
+Players: 0/20
+Players: 0/4
+Version: 1.20.1
+Motd: {"text":"A Minecraft Server"}
+Version: 1.20.1
+Players: 0/2
+ 
+ 
+Server: 5.39.96.59 is online
+Motd: {"text":"A Minecraft Server"}
+Version: 1.20.1
+ 
+Players: 0/320
+Version: Paper 1.19.4
+Server: 5.9.67.52 is online
+ 
+Motd: {"text":"SweetWorldMC"}
+Server: 5.57.201.188 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/500
+Server: 5.61.35.94 is online
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Version: 1.20.1
+Motd: {"text":"A Forge Minecraft Server powered by Docker"}
+Server: 5.253.246.103 is online
+ 
+Players: 0/20
+Version: 1.19.2
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/20
+Version: 1.19.3
+ 
+Server: 3.72.56.108 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Players: 0/20
+Version: 1.18.2
+ 
+Server: 5.42.84.202 is online
+Motd: {"text":"Asteria Creative"}
+Server: 5.199.138.17 is online
+Motd: {"text":"Krasser Server LUL"}
+Players: 0/10
+Server: 5.9.21.235 is online
+Motd: "Craftserve.pl - wydajny hosting Minecraft!\nTestuj za darmo przez 24h!"
+Players: 0/10
+Version: Paper 1.16.5
+ 
+Players: 0/1
+Version: 1.12.2
+ 
+Version: ???
+ 
+Server: 5.182.206.159 is online
+Motd: TTTCommunity - Old but gold - [1.8-1.19]
+Players: 0/100
+Version: >=1.8b/1.3
+Server: 5.62.124.80 is online
+Motd: {"text":"nitrado.net gameserver"}
+ 
+Players: 0/8
+Server: 5.83.164.148 is online
+Motd: {"text":"nitrado.net All the Mods 7 - To the Sky Server"}
+Version: Paper 1.18.1
+ 
+Players: 0/4
+Version: 1.18.2
+Server: 5.103.140.48 is online
+ 
+Motd: {"text":"This is gonna be a shitshow"}
+Players: 0/20
+Version: 1.19.2
+Server: 5.199.139.16 is online
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+ 
+Players: 0/20
+Server: 5.45.99.57 is online
+Server: 2.59.235.35 is online
+Motd: {"extra":[{"obfuscated":true,"color":"green","text":"asdf "},{"color":"green","text":"Server de Informaticapau "},{"obfuscated":true,"color":"green","text":"asdf"},{"extra":[{"obfuscated":true,"text":"asdf"}],"text":"\n"},{"extra":[{"obfuscated":true,"text":"asdf"}],"text":"         Hello World            "}],"text":""}
+Motd: {"text":"A Minecraft Server"}
+Version: Spigot 1.19.4
+ 
+Players: 0/5
+Players: 0/100
+Version: 1.19.2
+Version: Paper 1.17.1
+ 
+ 
+Server: 2.59.40.251 is online
+Server: 5.146.202.146 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Motd: {"text":"Mister Craft"}
+Players: 0/32
+Players: 0/20
+Server: 5.75.231.36 is online
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Version: Paper 1.20.1
+Version: 1.20.1
+Players: 0/20
+ 
+ 
+Server: 5.153.123.211 is online
+Version: Spigot 1.19.2
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Players: 0/20
+ 
+Version: Paper 1.16.4
+Server: 5.9.209.126 is online
+Motd: {"text":"Lunchbreaktime Modded"}
+ 
+Server: 5.188.158.177 is online
+Players: 0/20
+Motd: {"text":"A Minecraft Server"}
+Version: 1.19.2
+Players: 0/100
+ 
+Version: 1.19.2
+Server: 5.10.60.225 is online
+Motd: {"text":"Ixmotraspberrymc"}
+ 
+Players: 0/3
+Server: 2.85.238.199 is online
+Version: Paper 1.19.1
+Server: 5.139.122.249 is online
+Motd: {"text":"Lets crash this!"}
+Players: 0/30
+ 
+Motd: Пельменная <3 | Вкусное выживание.
+Version: Paper 1.17.1
+Players: 0/1
+Version: >=1.8b/1.3
+ 
+ 
+Server: 5.182.207.21 is online
+Server: 5.196.14.13 is online
+Motd: {"text":"A Minecraft Server"}
+Motd: {"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_purple","text":"0000"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"--¤--^] "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_red","text":"000"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"LaPomme Server's 1.20.1"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_red","text":"000"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":" [^--¤--"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_purple","text":"0000"}],"text":""}
+Players: 0/999
+Players: 0/20
+Server: 5.75.254.144 is online
+Version: 1.20.1
+Motd: {"text":"1.20 Minecraft Server"}
+Version: Spigot 1.20.1
+ 
+Players: 0/69
+ 
+Version: Paper 1.20.1
+Server: 5.9.5.42 is online
+ 
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.181.15.235 is online
+Server: 3.78.181.38 is online
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Players: 0/10
+Players: 0/20
+Version: 1.20.1
+Version: 1.12.2
+ 
+ 
+Server: 5.161.90.251 is online
+Motd: {"text":"§n§3New Modded Minecraft Server§r §l§6§o**10 THINGS YOU DID NOT KNOW** §a§o§n**NUMBER 9 WILL SHOCK YOU**"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 2.58.113.62 is online
+Motd: "§f§8   §8× §6§lSpliceMC.net§6§l §8- §7Minigames Netzwerk §8[§31§8.§38§8.§3X§8] ×\n      §8 × §aNeuer Modus§7 + §eNeue Maps §8- §6Open Beta §8×"
+Players: 0/100
+Version: §70/100
+ 
+Server: 5.161.74.207 is online
+Motd: {"extra":[{"text":"\n"},{"italic":true,"color":"#BCAED2","extra":[{"color":"white","extra":[{"color":"#725BA1","text":"Minecraft Server"}],"text":"Community "}],"text":"Hen隊 "}],"text":""}
+Players: 0/999
+Version: Velocity 1.7.2-1.20
+ 
+Server: 5.181.15.16 is online
+Motd: {"text":"§6§k231312\\Hello World!"}
+Players: 0/2
+Version: 1.19.2
+ 
+Server: 5.181.15.71 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.20.1
+ 
+Server: 5.62.107.210 is online
+Motd: {"text":"nitrado.net gameserver"}
+Server: 5.149.155.199 is online
+Players: 0/4
+Motd: {"text":"A Minecraft Server (under cunstruction)"}
+Version: 1.16.4
+Players: 0/200
+ 
+Server: 5.75.247.40 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Version: 1.19.2
+ 
+Players: 0/20
+Version: Paper 1.19.4
+ 
+Server: 5.9.72.183 is online
+Server: 5.9.153.166 is online
+Motd: Waf-Clan
+Motd: "GT New Horizons 2.3.0-RC1"
+Server: 3.66.184.30 is online
+Players: 0/100
+Players: 0/20
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Server: 5.9.5.144 is online
+Server: 5.9.152.17 is online
+Version: 1.7.10
+Players: 0/20
+Motd: {"text":"Liffis und Hagens Minecraft Server"}
+Version: >=1.8b/1.3
+Server: 5.249.162.32 is online
+Motd: {"text":"Clash of EVR halt ja"}
+ 
+ 
+Server: 5.9.178.27 is online
+Version: 1.19
+Players: 0/20
+Motd: {"extra":[{"text":"         "},{"italic":true,"color":"green","text":"■ "},{"color":"dark_gray","text":"┃ "},{"bold":true,"color":"green","text":"Creeper "},{"color":"gold","text":"Network "},{"bold":true,"color":"dark_gray","text":"» "},{"italic":true,"color":"gray","text":"v0.1 "},{"color":"dark_gray","text":"┃ "},{"italic":true,"color":"green","text":"■"},{"color":"white","text":"     "},{"bold":true,"color":"dark_aqua","text":"Maintenance "},{"bold":true,"color":"dark_gray","text":"» "},{"color":"gray","text":"We are still in "},{"bold":true,"color":"dark_aqua","text":"maintenance"}],"text":""}
+Server: 5.9.178.30 is online
+Server: 5.62.102.59 is online
+Motd: {"text":"§9ÍFS"}
+Motd: {"text":"§9ÍFS"}
+Version: 1.18.2
+Players: 0/30
+Players: 0/-1
+Motd: {"text":""}
+ 
+Players: 0/4
+Version: Paper 1.20.1
+Players: 0/20
+Version: BungeeCord 1.8.x-1.19.x
+ 
+Players: 0/20
+Version: 1.20.1
+ 
+Version: 1.20.1
+ 
+Version: 1.20.1
+Server: 3.121.126.38 is online
+Motd: A Minecraft Server.
+ 
+ 
+ 
+Server: 5.196.185.29 is online
+Players: 0/100
+Motd: {"text":"A Minecraft Server"}
+Server: 5.45.99.169 is online
+Motd: {"text":"A Minecraft Server"}
+Version: >=1.8b/1.3
+Players: 0/4
+["YoungDarb", "ThaNickG", "nwblackcat"]
+ 
+Version: 1.19.2
+Players: 0/20
+Version: 1.10.2
+ 
+Server: 5.135.139.202 is online
+Server: 5.9.31.116 is online
+["predateur59", "Ororia", "blast404"]
+Motd: {"color":"gold","text":"ZENO Community"}
+Motd: {"text":""}
+ 
+Players: 0/20
+Players: 0/30
+Version: Paper 1.19.3
+Version: 1.11.2
+Server: 5.135.83.180 is online
+ 
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/10
+Version: 1.20.1
+ 
+Server: 5.189.156.19 is online
+Server: 5.196.44.195 is online
+Motd: {"text":"Jan hasst Minecraft"}
+Motd: {"text":"A Minecraft Server"}
+Players: 0/4
+Players: 0/20
+Version: Paper 1.20
+Version: 1.18.1
+Server: 2.56.96.17 is online
+ 
+Motd: {"text":"Servus!"}
+ 
+Server: 5.252.224.69 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Server: 5.252.226.204 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Version: 1.20.1
+Players: 0/20
+["§8§m----------------------§a", "§cUnser Server unterstüzt nur", "§8§m----------------------§b"]
+Version: 1.19.3
+ 
+Players: 0/20
+Version: 1.19.4
+ 
+ 
+Server: 5.181.15.94 is online
+[]
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Server: 5.181.15.28 is online
+Motd: "A CreeperHost Server!"
+Version: 1.19.2
+Server: 5.181.15.69 is online
+ 
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Server: 5.135.187.152 is online
+Server: 5.135.38.173 is online
+Version: 1.7.10
+Motd: {"text":"§2OhanaCraft §41.11.2"}
+Motd: {"text":"Private Vanilla's Minecraft Server: all data are journalized at 3:00 AM and retained to one week. "}
+Server: 5.181.15.228 is online
+Players: 0/10
+Server: 5.39.188.190 is online
+Version: 1.18.2
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/10
+["Compatible versions"]
+Server: 5.189.177.26 is online
+Server: 5.83.180.119 is online
+Motd: {"text":"Xite SMP"}
+Players: 0/20
+ 
+Version: 1.14
+Server: 5.181.14.191 is online
+Players: 0/10
+Version: Spigot 1.11.2
+Motd: {"text":"Sheldada's Minecraft Server"}
+Server: 5.9.31.21 is online
+Version: 1.19.2
+Version: 1.18.2
+Motd: {"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"========> "},{"bold":true,"italic":false,"underlined":true,"strikethrough":false,"obfuscated":false,"color":"green","text":"EVOLUTION OF DARKNESS"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"<========\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":">"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"AutoProtection "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"// "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Survival "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"// "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","clickEvent":{"action":"open_url","value":"http://www.eod-gaming.net"},"text":"www.eod-gaming.net"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"<"}],"text":""}
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/50
+Players: 0/10
+ 
+ 
+Server: 5.181.15.141 is online
+Motd: {"text":"USBeakCraft"}
+Players: 0/200
+ 
+Version: Paper 1.20.1
+Players: 0/10
+Version: Purpur 1.19.3
+ 
+Players: 0/30
+ 
+Version: 1.20.1
+Version: Spigot 1.16.5
+ 
+ 
+ 
+Version: Paper 1.19.2
+Server: 5.101.162.247 is online
+ 
+Motd: {"text":"nitrado.net gameserver"}
+Server: 5.181.15.138 is online
+Motd: {"text":"Gegroet arbeiders!"}
+Players: 0/6
+Version: Paper 1.19.3
+Players: 0/10
+["Grian", "AlexeitorCraft", "Bris__"]
+Version: 1.12.2
+ 
+ 
+Server: 5.181.13.66 is online
+["Anonymous Player", "DJ_Khalid69"]
+Server: 5.181.14.189 is online
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"text":"Dulliserver aka Spontanentscheidung"}
+Players: 0/10
+Players: 0/10
+Version: 1.16.5
+Version: 1.19.2
+ 
+ 
+Server: 5.9.116.44 is online
+Motd: {"text":"LinuxGSM"}
+["coolguymikmay"]
+Players: 0/20
+Version: 1.19.4
+ 
+Server: 3.249.231.167 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Server: 2.201.145.160 is online
+Motd: {"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"ChemCraftz"},{"bold":true,"italic":false,"color":"gold","text":" ::"},{"bold":true,"italic":false,"color":"gold","text":" "},{"bold":true,"italic":false,"color":"gold","clickEvent":{"action":"open_url","value":"http://minecraft.swfev.de"},"text":"minecraft.swfev.de"},{"bold":true,"italic":false,"color":"gold","text":" ["},{"bold":true,"italic":false,"color":"green","text":"1.16.5"},{"bold":true,"italic":false,"color":"gold","text":"]\n  -"},{"bold":true,"italic":false,"color":"red","text":"by "},{"bold":true,"italic":false,"color":"red","clickEvent":{"action":"open_url","value":"http://swf-bumerang.de"},"text":"swf-bumerang.de"},{"bold":true,"italic":false,"color":"gold","text":" & "},{"bold":false,"italic":false,"color":"dark_red","clickEvent":{"action":"open_url","value":"http://Digenio.de"},"text":"Digenio.de"},{"bold":false,"italic":false,"color":"dark_red","text":""}],"text":""}
+Players: 0/20
+Version: 1.15.2
+Players: 0/20
+Version: Paper 1.16.5
+ 
+ 
+Server: 5.181.134.125 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.4
+Server: 2.248.251.2 is online
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/20
+["JuanOlas1", "ROALPE"]
+Version: Paper 1.20.1
+ 
+Server: 5.68.48.213 is online
+Motd: {"text":"Welcome to CraftCraft <3"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 3.11.126.141 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.2
+Server: 5.9.106.138 is online
+Motd: {"text":"Suuria's 1.19 Server"}
+ 
+Players: 0/10
+Version: 1.19.4
+ 
+Server: 5.159.102.201 is online
+Motd: {"text":"A Kukold Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 5.178.87.2 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Server: 5.181.13.51 is online
+Motd: {"text":"Only Friends!"}
+Version: 1.20
+ 
+Players: 0/10
+Version: 1.12.2
+ 
+Server: 5.42.85.26 is online
+Motd: || GoldCraft » １．８－１．１７．＊
+Server: 5.196.207.111 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/150
+Version: >=1.8b/1.3
+Players: 0/4
+Version: 1.20.1
+ 
+ 
+Server: 5.181.14.188 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.146.241.1 is online
+Motd: {"text":"All the Mods 8"}
+Players: 0/20
+Version: 1.19.2
+Server: 5.101.51.66 is online
+Motd: {"text":"A Minecraft Server"}
+ 
+Server: 5.183.11.61 is online
+Players: 0/20
+Motd: {"text":"Powered by AMP"}
+Version: 1.20.1
+Players: 0/10
+Server: 5.230.147.203 is online
+Motd: "Linoxo is welcome"
+Version: 1.20.1
+ 
+ 
+Players: 0/2
+Version: 1.8
+Server: 5.181.13.79 is online
+Motd: {"text":"A CreeperHost Server!"}
+ 
+Server: 5.9.22.211 is online
+Motd: {"extra":[{"text":"BBW-IT-Minecraft Server"}],"text":""}
+Players: 0/10
+Players: 0/20
+Version: 1.18.2
+ 
+Version: Spigot 1.20.1
+ 
+Server: 2.58.82.125 is online
+Motd: {"text":"PREHUB"}
+Players: 0/20
+Version: Paper 1.16.5
+ 
+Server: 5.135.187.14 is online
+Motd: {"text":"(Unofficial) Community server, enjoy your stay :)"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 2.59.41.204 is online
+Motd: {"text":"ÐÑÐµÐ°ÑÐ¸Ð² ÑÐµÑÐ²ÐµÑ"}
+Players: 0/20
+Version: Paper 1.19.4
+ 
+Server: 3.77.144.71 is online
+Server: 5.135.69.223 is online
+Motd: "A Minecraft Server"
+Motd: {"text":"Cock Server"}
+Server: 5.181.15.227 is online
+Players: 0/100
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/200
+Server: 5.44.40.72 is online
+Motd: {"text":"Minecraft-KRD.ru"}
+Version: TacoSpigot 1.8.8
+Players: 0/10
+Version: Paper 1.20.1
+ 
+Version: 1.18.2
+ 
+Players: 0/100
+Version: Paper 1.19.4
+ 
+ 
+Server: 5.189.145.245 is online
+Motd: {"text":"A Minecraft Server"}
+Server: 3.64.136.175 is online
+Server: 5.189.135.231 is online
+Motd:                 Voxel Network [1.17-1.20]
+Motd: {"text":"ColdGamer99_Server"}
+Players: 0/20
+Version: 1.19.4
+Players: 0/5
+Players: 0/20
+Version: >=1.8b/1.3
+ 
+Version: 1.19.2
+ 
+ 
+[]
+Server: 2.59.134.81 is online
+Motd: {"text":"§2Privat§7 Create§9Live§6 Gamers§4 v§e4"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.189.165.203 is online
+Motd: {"extra":[{"color":"blue","text":"mountainsmc"},{"color":"dark_blue","text":"."},{"color":"blue","text":"de"},{"color":"dark_gray","text":" | "},{"color":"gray","text":"Hosted by "},{"color":"red","text":"TnTGamesTV\n"},{"color":"gray","text":">>> "},{"color":"blue","text":"1"},{"color":"dark_blue","text":"."},{"color":"blue","text":"8"},{"color":"dark_blue","text":"."},{"color":"blue","text":"9 "},{"color":"dark_blue","text":"- "},{"color":"blue","text":"1"},{"color":"dark_blue","text":"."},{"color":"blue","text":"18"},{"color":"dark_blue","text":"."},{"color":"blue","text":"2 "},{"color":"gray","text":"<<<"}],"text":""}
+Players: 0/10
+["QuickMarch", "A13XATK"]
+Version: BungeeCord 1.8.x-1.19.x
+ 
+Server: 5.9.99.215 is online
+Motd: {"text":"A Minecraft Server\n§9 hosted on PufferPanel"}
+Players: 0/20
+Version: 1.19.2
+ 
+["Bastendo"]
+Server: 5.78.60.227 is online
+Motd: {"text":"Naluisitos Server"}
+Players: 0/20
+["HIEPBOI82", "xShatteredGem", "Relentlessgodxx", "Tirets", "Paenthy", "3693", "_Abramsm1a23275", "_Nightmare20181", "Anonymous Player", "Alien_Gamer75", "qwirdle", "Juice_A"]
+Version: 1.19.3
+ 
+["_Fabsi"]
+Server: 5.75.139.58 is online
+Motd: {"text":"Vanilla 1.20 - Thicc Thighs are HOT "}
+Players: 0/20
+Version: 1.20
+ 
+Server: 5.230.22.178 is online
+Motd: {"text":"hi its godlem time"}
+Server: 5.181.14.203 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/69
+["MIGHTYMITCH1236", "TobyWoob", "MelonMan2003"]
+Version: 1.19.2
+Players: 0/10
+Version: 1.19.2
+ 
+ 
+Server: 2.83.104.67 is online
+Motd: SpaceFortress 258
+Players: 0/15
+Version: >=1.8b/1.3
+ 
+Server: 5.181.48.108 is online
+Motd: {"text":"StoneBlock 1.0.33"}
+Players: 0/20
+Version: 1.12.2
+ 
+["TheLastOperator"]
+Server: 5.9.63.83 is online
+Motd: {"extra":[{"text":"Ich heisse Marvin!"}],"text":""}
+Players: 0/10
+Version: Spigot 1.20
+ 
+[]
+Server: 5.75.144.205 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.18.2
+ 
+Server: 2.224.140.230 is online
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Players: 0/20
+Version: Spigot 1.20.1
+ 
+Server: 2.56.165.25 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 2.136.0.253 is online
+Motd: {"text":"Pixuland 1.20.1"}
+Players: 0/200
+Version: Paper 1.20.1
+ 
+[]
+Server: 5.196.208.221 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/75
+Version: Paper 1.19.4
+["FotoKriszti2000"]
+ 
+["Anonymous Player"]
+["NovaAvnas"]
+[]
+["Ars64"]
+Server: 5.135.19.9 is online
+Motd: {"text":"Bouh !"}
+Players: 0/2
+Version: 1.18.1
+ 
+Server: 5.196.185.43 is online
+Motd: {"text":"A Minecraft Server"}
+Server: 5.182.205.66 is online
+Motd: {"extra":[{"clickEvent":{"action":"open_url","value":"http://SpexMC.eu"},"text":"SpexMC.eu"},{"text":" Spigot 1.20 Server"}],"text":""}
+Players: 0/120
+Version: 1.19.2
+Players: 0/50
+["Cheremenin"]
+Version: Spigot 1.20.1
+ 
+ 
+[]
+Server: 5.75.147.126 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Players: 0/20
+Version: 1.19.4
+ 
+Server: 5.45.102.249 is online
+Motd: {"text":"PaperMC!"}
+Players: 0/20
+Version: Paper 1.19.2
+ 
+Server: 5.196.71.110 is online
+Motd: MineAlpha - Premium verifier
+Players: 0/1
+Version: >=1.8b/1.3
+ 
+Server: 5.186.52.44 is online
+Motd: {"text":"Vand Server"}
+Players: 0/20
+Version: Paper 1.20
+ 
+Server: 5.189.148.16 is online
+Motd: {"extra":[{"color":"blue","text":"["},{"color":"aqua","text":"Lahuca Software Development"},{"color":"blue","text":"]\n"},{"color":"gold","text":"Status: "},{"color":"green","text":"Online at Minecraft 1.18.1"}],"text":""}
+Players: 0/20
+Version: Paper 1.19.3
+ 
+Server: 5.100.54.151 is online
+Motd: {"text":"Lets Go!"}
+Players: 0/20
+Version: 1.19.4
+ 
+["yeet_ftw"]
+Server: 2.217.252.120 is online
+Motd: {"text":"Swag"}
+Players: 0/4
+Version: 1.19.2
+ 
+Server: 1.15.70.167 is online
+Motd: {"text":"An Astral Server!"}
+Players: 0/10
+Version: 1.18.2
+ 
+[]
+Server: 5.182.5.6 is online
+Motd: {"extra":[{"color":"blue","text":"https://mc.albi.io/"},{"text":"ᐊᐊ "},{"color":"gold","text":"/dynmap webregister"}],"text":"Заходи быстрее! Кисяки уже соскучились!\n"}
+Players: 0/20
+Version: Purpur 1.19.4
+ 
+["Knochenjochen"]
+Server: 5.181.14.47 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.2.184.226 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 5.9.108.151 is online
+Motd: "Craftserve.pl - wydajny hosting Minecraft!\nTestuj za darmo przez 24h!"
+Players: 0/1
+Version: ???
+ 
+Server: 5.39.85.42 is online
+Motd: "A Minecraft Server"
+Players: 0/20
+Version: 1.8.1
+ 
+Server: 2.56.98.49 is online
+Motd: {"text":"Hier geschehen schlimme Dinge :o"}
+Players: 0/5
+Version: 1.19.3
+ 
+Server: 5.135.103.169 is online
+Motd: {"text":"§e          Modded Server [§61.18.2 Forge§e]§r\n§f           Status§0:§a ●§r Online §0- §b§lJoin now !"}
+Players: 0/20
+Version: 1.18.2
+ 
+["Aegis"]
+["Yuri", "BlakeIt11", "Putoelultimo", "aitami78"]
+Server: 3.19.232.86 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 5.75.254.41 is online
+Motd: The World of Jana
+Players: 0/20
+Version: >=1.8b/1.3
+ 
+Server: 5.83.164.128 is online
+Motd: {"text":"Minecraft mit den Bre´s"}
+Players: 0/6
+Version: 1.20.1
+Server: 2.56.245.244 is online
+ 
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 5.230.29.44 is online
+Motd: {"text":"A Minecraft Server"}
+Server: 5.182.206.192 is online
+Players: 0/20
+Motd: {"color":"#09ADD3","text":"A Velocity Server"}
+Version: 1.19
+Players: 0/500
+Server: 5.180.255.36 is online
+Server: 2.56.245.15 is online
+Motd: {"text":"§d§oSkyFactory 4: Server§r - §4v4.2.4"}
+Motd: {"text":"A Minecraft Server"}
+ 
+Version: Velocity 1.7.2-1.20.1
+ 
+Players: 0/20
+Players: 0/20
+Version: 1.12.2
+Version: 1.19.2
+ 
+ 
+Server: 5.9.44.14 is online
+Motd: {"text":"vrlo zabavni server"}
+Players: 0/20
+Server: 5.9.39.214 is online
+Version: 1.20
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/9999
+Version: 1.19.4
+ 
+Server: 1.13.22.101 is online
+Motd: {"extra":[{"text":"Building Death Match"}],"text":""}
+Server: 2.98.242.99 is online
+Server: 5.249.161.239 is online
+Motd: The Swamp Server
+Motd: {"text":"Life in the Village 3 Server"}
+Players: 0/10
+Players: 0/24
+Version: forge 1.16.5
+Players: 0/20
+ 
+Version: >=1.8b/1.3
+Version: 1.18.2
+Server: 3.121.208.0 is online
+Server: 5.75.161.14 is online
+Motd: {"text":"Freunde der Sonne"}
+Motd: {"text":"Our Private DoGooo SMP"}
+ 
+ 
+Players: 0/20
+Players: 0/20
+Version: 1.20.1
+Version: 1.20.1
+ 
+ 
+Server: 5.189.130.66 is online
+Server: 3.70.192.69 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Motd: "Asmo-zone.pl"
+Players: 0/5
+Players: 0/20
+Server: 5.196.134.156 is online
+Version: 1.19.3
+Motd: {"extra":[{"strikethrough":true,"color":"dark_aqua","text":"=-"},{"bold":true,"color":"aqua","text":" CRAB SMP"},{"color":"dark_green","text":" 1.20.1 "},{"strikethrough":true,"color":"dark_aqua","text":"-="},{"text":"\n"},{"bold":true,"color":"green","text":"discord.gg/nrRX44Mbz4 | twitch.tv/3rdactive"},{"text":"\n"}],"text":""}
+Version: Spigot 1.8.8
+Server: 5.39.75.47 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+ 
+Players: 0/16
+ 
+Version: Paper 1.20.1
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 5.157.80.55 is online
+Server: 5.39.22.217 is online
+Motd: {"extra":[{"text":"         "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00D1EF","text":"Smart S"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00CDED","text":"u"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00C5E9","text":"r"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00BDE4","text":"v"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00B5E0","text":"i"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00ADDC","text":"v"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00A5D7","text":"a"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#009DD3","text":"l"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#CCD4DC","text":"- "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FCBC24","text":"Release 4.6"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"\n "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FCFCAC","text":"            Made by Dream Developments"}],"text":""}
+Motd: {"text":"Schaapjes for the win!"}
+ 
+Players: 0/20
+Players: 0/1
+Version: forge arclight/Trials 1.20.1
+Version: 1.16.4
+Server: 5.249.160.215 is online
+Server: 5.200.21.223 is online
+Motd: {"extra":[{"color":"light_purple","text":"❤ "},{"bold":true,"color":"green","text":"C"},{"bold":true,"color":"green","text":"e"},{"bold":true,"color":"green","text":"l"},{"bold":true,"color":"green","text":"l"},{"bold":true,"color":"aqua","text":"i"},{"bold":true,"color":"aqua","text":"e"},{"bold":true,"color":"aqua","text":"'"},{"bold":true,"color":"aqua","text":"s"},{"bold":true,"color":"aqua","text":" "},{"bold":true,"color":"aqua","text":"S"},{"bold":true,"color":"aqua","text":"m"},{"bold":true,"color":"blue","text":"o"},{"bold":true,"color":"blue","text":"l"},{"bold":true,"color":"blue","text":" "},{"bold":true,"color":"blue","text":"C"},{"bold":true,"color":"blue","text":"a"},{"bold":true,"color":"blue","text":"f"},{"bold":true,"color":"blue","text":"é"},{"color":"light_purple","text":" ❤"},{"text":"\n                       "},{"color":"yellow","text":"Uoooohhhhhh"}],"text":"               "}
+Motd: {"text":"Arizona"}
+ 
+ 
+Server: 5.196.99.130 is online
+Players: 0/20
+Players: 0/69
+Version: Paper 1.20.1
+Version: 1.20.1
+Motd: {"text":"Minehammer"}
+ 
+ 
+Players: 0/20
+Server: 5.135.30.33 is online
+Motd: {"text":"A Minecraft Server"}
+Version: 1.19.2
+ 
+Server: 5.181.15.55 is online
+Players: 0/20
+Motd: {"text":"A CreeperHost Server!"}
+Version: 1.20.1
+ 
+Players: 0/5
+Version: 1.16.5
+ 
+Server: 5.196.220.177 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.181.15.238 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+Server: 5.181.15.142 is online
+ 
+Motd: {"text":"A CreeperHost Server!"}
+Server: 5.181.15.118 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.16.5
+Players: 0/10
+Version: 1.18.2
+ 
+ 
+Server: 2.59.135.97 is online
+Motd: {"extra":[{"bold":true,"color":"red","text":"CHINA"},{"text":" "},{"italic":true,"underlined":true,"color":"yellow","text":"MY VILLAGE"},{"color":"gold","text":" <3 <3 <3"},{"text":"\n"},{"bold":true,"color":"aqua","text":"FUCK YOU BIHARI MARATHI "},{"bold":true,"color":"red","text":"<3"}],"text":""}
+Players: 0/32
+Version: Paper 1.19.3
+ 
+Server: 2.98.36.179 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 2.58.113.2 is online
+Motd: {"text":"FOF Minecraft Vanilla"}
+Players: 0/25
+Version: 1.20.1
+ 
+Server: 2.249.187.46 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 2.108.206.253 is online
+Motd: {"text":"Scrubcraft Server"}
+Players: 0/20
+Version: 1.18.2
+ 
+Server: 5.64.197.232 is online
+Motd: {"text":"DawnCraft Sou"}
+Players: 0/50
+Version: 1.18.2
+ 
+Server: 5.9.61.226 is online
+Motd: {"extra":[{"bold":true,"extra":[{"color":"yellow","text":"T"},{"color":"#FFEE44","text":"a"},{"color":"#FFDD33","text":"n"},{"color":"#FFCC22","text":"o"},{"color":"#FFBB11","text":"M"},{"color":"gold","text":"C"}],"text":""},{"text":" "},{"color":"dark_gray","extra":[{"color":"gray","extra":[{"color":"yellow","extra":[{"color":"dark_gray","extra":[{"color":"gold","extra":[{"bold":true,"text":"1.19+"},{"text":" \n               "},{"bold":true,"extra":[{"color":"red","text":"W"},{"color":"#FB5151","text":"e"},{"color":"#F74D4D","text":" "},{"color":"#F24848","text":"a"},{"color":"#EE4444","text":"r"},{"color":"#EA4040","text":"e"},{"color":"#E63C3C","text":" "},{"color":"#E13737","text":"i"},{"color":"#DD3333","text":"n"},{"color":"#D92F2F","text":" "},{"color":"#D52B2B","text":"m"},{"color":"#D02626","text":"a"},{"color":"#CC2222","text":"i"},{"color":"#C81E1E","text":"n"},{"color":"#C41A1A","text":"t"},{"color":"#BF1515","text":"e"},{"color":"#BB1111","text":"n"},{"color":"#B70D0D","text":"a"},{"color":"#B30909","text":"n"},{"color":"#AE0404","text":"c"},{"color":"dark_red","text":"e"}],"text":""}],"text":""}],"text":"| "}],"text":"ᴡᴀʏs "}],"text":"explore new "}],"text":"» "}],"text":"        "}
+Players: 0/100
+Version: §cMaintenance
+ 
+Server: 5.249.160.105 is online
+Motd: {"text":"Hosted by ZAP-Hosting.com"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.62.107.165 is online
+Motd: {"text":"Fuck you Adil"}
+Players: 0/6
+Version: 1.20.1
+ 
+Server: 5.135.84.65 is online
+Motd: SPRINGFIELD NETWORK - [1.8.9-1.19]
+Players: 0/250
+Version: >=1.8b/1.3
+ 
+Server: 5.181.13.39 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.16.5
+ 
+Server: 5.161.96.237 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19
+ 
+["Sebastiaaaan"]
+Server: 5.196.64.49 is online
+Motd: {"text":"Welcome To VivaCraft!"}
+Players: 0/69
+Version: Spigot 1.15.2
+ 
+["Jfoxgamer", "XeroYT", "DELTA0FF"]
+["EnjoyJondo"]
+Server: 5.75.154.38 is online
+Motd: {"text":"Pebble SMP"}
+Players: 0/100
+Version: Paper 1.19.4
+ 
+["M4rui"]
+["Wontax"]
+["melaniahr0", "apellido04"]
+[]
+Server: 5.39.22.216 is online
+Motd: {"text":"§2§kACE §rSurvie Moddé: §fLes§a Sadiques§4 Dérangés§2§k ACE"}
+Players: 0/50
+Version: 1.20.1
+ 
+["tusk_act_4_OH"]
+Server: 5.9.155.168 is online
+Motd: {"text":"Duck Pack 4 [Forge Edition]"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.180.67.226 is online
+Motd: {"text":"A Minecraft"}
+Players: 0/100
+Version: Paper 1.19.4
+ 
+Server: 5.9.248.67 is online
+Motd: {"extra":[{"text":"Iljas Wunderland"}],"text":""}
+Server: 5.187.6.122 is online
+Players: 0/1337
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Players: 0/20
+Version: Spigot 1.20.1
+Server: 5.9.104.217 is online
+Server: 5.196.185.48 is online
+ 
+Motd: {"text":"Hallo!"}
+Version: Spigot 1.18.2
+Motd: {"text":"A Minecraft Server"}
+Server: 5.75.229.115 is online
+Server: 5.75.185.2 is online
+Motd: {"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Oneblock "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"text":"||"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":" Hosted by Kareten"}],"text":""}
+Players: 0/40
+Motd: {"text":"O servidor dos amigos do Pedro"}
+ 
+Players: 0/200
+Version: 1.19.3
+Players: 0/8
+Players: 0/25565
+Version: 1.12.2
+Server: 5.39.35.84 is online
+ 
+Version: Spigot 1.20.1
+Version: Paper 1.20.1
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+ 
+Server: 5.181.15.20 is online
+ 
+Players: 0/40
+ 
+Motd: {"text":"There might be Bees. :)"}
+Version: Spigot 1.19.4
+Players: 0/10
+Server: 5.62.111.20 is online
+Motd: {"text":"Black is BAD!"}
+Version: 1.19.2
+ 
+Server: 5.38.228.200 is online
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/6
+Server: 5.9.143.126 is online
+Version: 1.19.2
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+Players: 0/20
+ 
+Version: Paper 1.19.4
+ 
+ 
+["_FONTCEST_"]
+Server: 5.181.15.54 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.133.9.94 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.4
+ 
+Server: 3.251.237.131 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+Server: 4.225.161.116 is online
+ 
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 5.9.21.201 is online
+Motd: {"text":"Gaming Pals Minecraft server #1"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 5.135.46.177 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/84
+Server: 5.189.138.110 is online
+Server: 5.9.116.75 is online
+Server: 5.9.109.252 is online
+Motd: {"extra":[{"text":"NetWars Gaming - Aerrimel"}],"text":""}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"Map: http://surfhome.de/minecraft"}
+Version: 1.18.2
+Players: 0/10
+Players: 0/20
+ 
+Players: 0/20
+Version: Spigot 1.19.4
+Version: 1.20
+Version: 1.20.1
+ 
+ 
+ 
+Server: 5.181.15.222 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+ 
+["§c§lMaintenance"]
+Server: 1.14.32.188 is online
+Motd: {"text":"MC Eternal 1.6.1 Server"}
+Players: 0/20
+Version: 1.12.2
+ 
+["Mao_Zedong_CPC"]
+Server: 2.56.98.36 is online
+Motd: {"text":"kevril.de"}
+Players: 0/20
+Version: 1.19.4
+ 
+["DrUnkRepTile"]
+Server: 5.45.111.216 is online
+Motd: {"text":"§d§oSkyFactory 4: Server§r - §4v4.2.4"}
+Players: 0/20
+Version: 1.12.2
+ 
+["Marenus118", "Jakoy", "GilgaNurgle", "Nurgillaen", "ShinogAlvor", "Bluefox1987", "Revan010"]
+["Mobil_Box", "BigPisun12cm"]
+Server: 2.56.245.31 is online
+Motd: {"extra":[{"color":"gray","text":"            "},{"bold":true,"color":"red","text":"BedVace "},{"bold":true,"color":"white","text":"‣ "},{"bold":true,"color":"gold","text":"CityBuild "},{"color":"dark_gray","text":"("},{"color":"white","text":"1.19"},{"color":"dark_gray","text":")\n"},{"bold":true,"color":"white","text":"◊"},{"obfuscated":true,"color":"dark_green","text":" i "},{"bold":true,"color":"green","text":"SICHERE DIR DIE NEUEN VACEGEMS! "},{"bold":true,"color":"dark_green","text":"/shop "},{"obfuscated":true,"color":"dark_green","text":"i "},{"bold":true,"color":"white","text":"◊"}],"text":""}
+Players: 0/100
+Version: BungeeCord 1.8.x-1.19.x
+ 
+Server: 5.62.123.29 is online
+Motd: {"text":"nitrado.net gameserver"}
+Players: 0/8
+Server: 5.75.226.251 is online
+Version: 1.16.5
+Motd: {"extra":[{"color":"#864EDA","extra":[{"bold":true,"text":"ARCAMERE"},{"text":" ™ "},{"color":"white","text":"[1.20.1]                              🗡 Roleplay & WorldBuilding Community 🗡"}],"text":"       "}],"text":"          "}
+Players: 0/250
+ 
+Version: Velocity 1.7.2-1.20.1
+ 
+Server: 5.45.100.78 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.18.1
+ 
+Server: 5.182.33.125 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 5.186.51.156 is online
+Motd: Another Bungee server
+Players: 0/1
+Version: >=1.8b/1.3
+ 
+Server: 5.189.166.230 is online
+Motd: {"text":"MC Eternal 1.6.1 Server"}
+Players: 0/20
+Version: 1.12.2
+ 
+Server: 5.9.52.99 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.4
+ 
+Server: 5.9.100.100 is online
+Server: 5.14.206.87 is online
+Motd: {"text":"The Few Chosen"}
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Players: 0/20
+Version: 1.20.1
+Version: 1.19.2
+ 
+ 
+Server: 3.65.60.219 is online
+Motd: {"text":"A Minecraft Server"}
+Server: 5.249.161.55 is online
+Motd: {"extra":[{"text":"Escafia Craft"}],"text":""}
+Players: 0/20
+Version: 1.19.2
+Players: 0/69
+Version: Spigot 1.19.2
+ 
+ 
+Server: 3.125.19.126 is online
+Motd: BushSMP | Java and Bedrock Crossplay 
+Players: 0/20
+Version: >=1.8b/1.3
+ 
+Server: 5.75.171.88 is online
+Motd: {"text":"An Above and Beyond Server"}
+Players: 0/20
+Version: 1.16.5
+ 
+["YukiKitsune69", "Anonymous Player", "HuaiXueDi", "Delga520", "Anonymous Player"]
+Server: 5.44.40.13 is online
+Motd: {"text":"Top Minecraft Server"}
+Players: 0/20
+Version: Purpur 1.19.2
+ 
+Server: 2.217.82.190 is online
+Motd: {"text":"julia's server "}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.189.167.218 is online
+Motd: {"text":"Mointain Man Minecraft Server"}
+Players: 0/20
+Version: Paper 1.19.4
+ 
+Server: 5.196.77.101 is online
+Motd: {"text":"Welcome to Lost Dungeon."}
+Players: 0/40
+Version: Paper 1.20.1
+ 
+Server: 5.75.236.80 is online
+Motd: {"text":"Nami's modded Minecraft Server"}
+Players: 0/2147483647
+Version: 1.19.2
+ 
+Server: 5.181.14.101 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.182.206.173 is online
+Motd: {"extra":[{"obfuscated":true,"color":"red","text":"yskyskys"},{"color":"white","text":" HÄ LUL "},{"obfuscated":true,"color":"red","text":"yskyskys"}],"text":""}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 1.15.152.86 is online
+Motd: {"translate":"Wakzz Server"}
+Players: 0/20
+Version: 1.12.2
+ 
+["Beziie"]
+Server: 5.135.237.120 is online
+Motd: DecenniumMC Custom minecraft server!
+Players: 0/20
+Version: >=1.8b/1.3
+ 
+Server: 5.181.15.211 is online
+Motd: {"text":"Dadless SMP"}
+Players: 0/10
+Version: 1.16.5
+ 
+Server: 3.128.82.221 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19
+ 
+Server: 2.12.229.70 is online
+Motd: {"text":"§c§kMinecraft§r §a[Univers 314 bis] §r§c§kMinecraft\n§o§bSurvival §fsimulation on §ehard §flevel (14h-00h)"}
+Players: 0/5
+Version: 1.19.3
+ 
+Server: 5.255.110.15 is online
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Players: 0/10
+Version: Spigot 1.19.3
+ 
+Server: 5.161.116.51 is online
+Motd: {"text":"Welcome to the Fellowship of The Twinks Minecraft server!"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 5.189.172.110 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 5.147.26.31 is online
+Motd: {"text":"The World Is Not Enough"}
+Players: 0/10
+Version: Paper 1.17.1
+ 
+Server: 5.182.206.161 is online
+Motd: {"text":"All the Mods 7 - To The Sky"}
+Players: 0/20
+Version: 1.18.2
+ 
+Server: 5.135.11.106 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/36
+Version: 1.20
+ 
+Server: 5.75.207.109 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20
+ 
+Server: 5.75.173.168 is online
+Motd: "A Minecraft Server\n§9 hosted on PufferPanel"
+Players: 0/20
+Version: 1.7.10
+ 
+Server: 5.253.246.79 is online
+Motd: {"text":"AlphaNetwork | Pixelmon 8.4.1"}
+Server: 5.230.22.186 is online
+Players: 0/100
+Version: 1.12.2
+Motd: {"text":"Jetzt auf 1.19!"}
+Players: 0/10
+ 
+Version: 1.20
+ 
+Server: 5.75.205.2 is online
+Motd: {"text":"A Valhelsia 5 Server"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.9.199.30 is online
+Motd: {"text":"§bFritz activities §4§lprohibited!"}
+Players: 0/10
+Version: 1.20
+ 
+Server: 5.181.14.161 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Version: 1.19.2
+ 
+Server: 5.249.160.206 is online
+Motd: {"text":"§9⚔ Survive and Thrive ⛏ §e§f|§2 SMP - Factions  §e discord.gg/walktalk (Coming soon!)"}
+Players: 0/50
+Version: 1.19.4
+ 
+Server: 5.181.15.182 is online
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/5
+Version: 1.19.2
+ 
+Server: 5.226.141.69 is online
+Motd: {"text":"Welcome to KFS"}
+Server: 5.105.48.43 is online
+Motd: {"color":"red","text":"[!] Ведутся тех. работы, cкоро вернемся!"}
+Players: 0/20
+Version: 1.19.2
+Players: 0/100
+Version: §4Тех. работы
+ 
+ 
+Server: 5.63.152.202 is online
+Motd: {"color":"dark_aqua","text":"MiuCraft"}
+Players: 0/500
+Version: Velocity 1.7.2-1.19.2
+ 
+Server: 3.123.229.45 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.4
+ 
+Server: 2.58.113.42 is online
+[]
+Motd: {"extra":[{"bold":true,"text":"  "},{"bold":true,"color":"aqua","text":"C"},{"bold":true,"color":"aqua","text":"u"},{"bold":true,"color":"aqua","text":"e"},{"bold":true,"color":"aqua","text":"C"},{"bold":true,"color":"aqua","text":"r"},{"bold":true,"color":"aqua","text":"a"},{"bold":true,"color":"aqua","text":"f"},{"bold":true,"color":"aqua","text":"t"},{"bold":true,"text":" "},{"color":"red","text":"▪ "},{"color":"white","text":"Deutscher Citybuild "},{"color":"red","text":"▪"},{"color":"light_purple","text":" und mehr..."},{"text":"\n"},{"color":"dark_green","text":"     "},{"bold":true,"color":"yellow","text":"N"},{"bold":true,"color":"yellow","text":"e"},{"bold":true,"color":"yellow","text":"u"},{"bold":true,"color":"yellow","text":"e"},{"bold":true,"color":"dark_green","text":" "},{"bold":true,"color":"yellow","text":"V"},{"bold":true,"color":"yellow","text":"a"},{"bold":true,"color":"yellow","text":"n"},{"bold":true,"color":"yellow","text":"i"},{"bold":true,"color":"yellow","text":"l"},{"bold":true,"color":"yellow","text":"l"},{"bold":true,"color":"yellow","text":"a"},{"bold":true,"color":"dark_green","text":" "},{"bold":true,"color":"yellow","text":"V"},{"bold":true,"color":"gold","text":"e"},{"bold":true,"color":"gold","text":"r"},{"bold":true,"color":"gold","text":"z"},{"bold":true,"color":"gold","text":"a"},{"bold":true,"color":"gold","text":"u"},{"bold":true,"color":"gold","text":"b"},{"bold":true,"color":"gold","text":"e"},{"bold":true,"color":"gold","text":"r"},{"bold":true,"color":"gold","text":"u"},{"bold":true,"color":"gold","text":"n"},{"bold":true,"color":"gold","text":"g"},{"bold":true,"color":"gold","text":"e"},{"bold":true,"color":"gold","text":"n"},{"bold":true,"color":"gold","text":"!"},{"bold":true,"color":"dark_green","text":" "},{"color":"dark_aqua","text":"[1.20]"}],"text":""}
+Players: 0/200
+Version: Paper 1.20.1
+ 
+Server: 5.13.195.203 is online
+Motd: {"text":"Welcome to Minecraft on TrueNAS Scale!"}
+Players: 0/20
+Version: 1.20.1
+ 
+["Anonymous Player"]
+Server: 3.72.80.173 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.3
+ 
+Server: 5.45.98.57 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 2.34.86.68 is online
+Motd: {"text":"All the Mods 8"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 1.117.162.249 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.14.4
+ 
+Server: 3.139.221.202 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.16.5
+ 
+Server: 5.255.86.235 is online
+Motd: {"text":"Official Nexer Hosting Survival Server!"}
+Players: 0/2022
+Version: Paper 1.18.2
+ 
+["LucaE_"]
+Server: 5.75.155.26 is online
+Motd: {"extra":[{"text":"Lozzy Survival Urlaub"}],"text":""}
+Players: 0/20
+Version: Spigot 1.19.3
+ 
+Server: 5.104.104.224 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/10
+Version: 1.20.1
+ 
+Server: 5.181.14.98 is online
+Motd: {"text":"Another day another slay!"}
+Players: 0/10
+Version: 1.19.3
+ 
+Server: 5.189.147.77 is online
+Motd: {"text":"&d&kxD&r &5zwal mi konia &d&kas"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.255.81.78 is online
+Motd: {"text":"R.A.D. 2 Server"}
+Players: 0/5
+Version: 1.16.5
+ 
+Server: 2.56.99.77 is online
+Motd: {"text":"§2-AmCorner- Sevtech Ages§r Version §43.1.7§r\n§6Have a lot of fun."}
+Players: 0/10
+Version: 1.12.2
+Server: 5.9.12.237 is online
+Motd: {"extra":[{"text":"A Vanilla Minecraft Server powered by Docker"}],"text":""}
+ 
+Players: 0/20
+Version: Spigot 1.19.4
+ 
+Server: 5.9.155.188 is online
+Motd:          Crimson Heights - Development
+Players: 0/60
+Version: >=1.8b/1.3
+ 
+Server: 2.56.96.228 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 5.39.68.151 is online
+Motd: {"text":"Kaffe's Minecraft Server"}
+Players: 0/12
+Version: 1.19.2
+ 
+Server: 5.42.66.1 is online
+Motd: {"extra":[{"color":"green","text":"Vanilla"},{"text":"\n                  "},{"color":"white","text":"Ванильное выживание"}],"text":"                           "}
+Players: 0/250
+Version: Pufferfish 1.20.1
+ 
+Server: 5.189.136.205 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.18.2
+ 
+["screwygirl"]
+Server: 2.108.175.119 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.19.2
+ 
+["GeeSusCrySt", "MDMAlex", "domkin"]
+[]
+Server: 3.239.24.214 is online
+Motd: {"text":"§kwww §9-  - -|  §f§lRoosters §4§lModded  §9§l|- -  - §7§kwww"}
+Players: 0/16
+Version: 1.19.2
+ 
+Server: 5.9.70.100 is online
+Motd: Lonezia ▸ PvP/Factions Farm2Win (1.8+)
+Players: 0/600
+Version: >=1.8b/1.3
+ 
+Server: 5.175.0.81 is online
+Motd: {"extra":[{"text":"Hure315"}],"text":""}
+Players: 0/5
+Version: CraftBukkit 1.19.4
+ 
+["Anonymous Player", "Nawi_02", "SiimonBowie", "LennyZ666"]
+[]
+Server: 5.252.118.49 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20.1
+ 
+Server: 5.9.66.71 is online
+Motd: {"extra":[{"color":"dark_aqua","text":"Pepegas.us Survival "},{"color":"gray","text":"["},{"color":"red","text":"1.20"},{"color":"gray","text":"]"},{"text":"\n"},{"color":"green","text":"O"},{"color":"green","text":"f"},{"color":"green","text":"f"},{"color":"green","text":"e"},{"color":"green","text":"n"},{"text":" "},{"color":"green","text":"a"},{"color":"aqua","text":"b"},{"text":" "},{"color":"light_purple","text":"d"},{"color":"light_purple","text":"e"},{"color":"light_purple","text":"m"},{"text":" "},{"color":"light_purple","text":"1"},{"color":"light_purple","text":"2"},{"color":"light_purple","text":"."},{"color":"light_purple","text":"06"},{"text":" "},{"color":"light_purple","text":"M"},{"color":"light_purple","text":"o"},{"color":"light_purple","text":"n"},{"color":"light_purple","text":"t"},{"color":"light_purple","text":"a"},{"color":"blue","text":"g"},{"text":" "},{"color":"blue","text":"1"},{"color":"blue","text":"6"},{"color":"blue","text":":"},{"color":"blue","text":"0"},{"color":"blue","text":"0"},{"color":"blue","text":"!"}],"text":""}
+Players: 0/69
+Version: Paper 1.20.1
+ 
+Server: 5.62.107.191 is online
+Motd: {"extra":[{"text":"Waelle's minecraft server 1.20.1"}],"text":""}
+Players: 0/4
+Version: Spigot 1.20.1
+ 
+Server: 5.75.252.9 is online
+Motd: {"text":"A Minecraft Server"}
+Server: 5.199.168.206 is online
+Motd: {"text":"PMCfc7dc794b1c33299fe509f3baec9ba42"}
+Players: 0/20
+Version: Purpur 1.18.2
+Players: 0/2023
+Version: Paper 1.19.4
+ 
+ 
+Server: 5.62.125.166 is online
+Motd: {"extra":[{"text":"(: Viel Spass :)"}],"text":""}
+Players: 0/4
+Version: Spigot 1.20
+ 
+Server: 5.249.160.124 is online
+Motd: {"text":"MimimimiMoosmann"}
+Players: 0/20
+Version: Paper 1.19.2
+ 
+Server: 5.181.13.76 is online
+Motd: {"text":"hai coaie"}
+Players: 0/10
+Version: 1.12.2
+ 
+Server: 5.196.148.144 is online
+Motd: {"extra":[{"bold":true,"color":"#FFFD55","text":"Ｄ"},{"bold":true,"color":"#FFFD65","text":"Ｉ"},{"bold":true,"color":"#FFFC74","text":"Ｕ"},{"bold":true,"color":"#FFFC84","text":"Ｍ"},{"bold":true,"color":"#FFFB94","text":"Ｚ"},{"bold":true,"color":"#FFFBA3","text":"Ｅ"},{"bold":true,"color":"#FFFAB3","text":"Ｔ "},{"color":"gray","text":"◈ "},{"bold":true,"color":"#FF3600","text":"1"},{"bold":true,"color":"#FF430D","text":"."},{"bold":true,"color":"#FF511A","text":"1"},{"bold":true,"color":"#FF5E28","text":"8"},{"bold":true,"color":"#FF6B35","text":"."},{"bold":true,"color":"#FF7942","text":"2 "},{"bold":true,"color":"#FF864F","text":"- "},{"bold":true,"color":"#FF945C","text":"1"},{"bold":true,"color":"#FFA169","text":"."},{"bold":true,"color":"#FFAE77","text":"1"},{"bold":true,"color":"#FFBC84","text":"9"},{"bold":true,"color":"#FFC991","text":"x \n                 "},{"color":"#FBB559","text":"⊶"},{"color":"#FBBB5F","text":"Н"},{"color":"#FCC066","text":"а"},{"color":"#FCC66C","text":"ч"},{"color":"#FCCB72","text":"а"},{"color":"#FDD179","text":"л"},{"color":"#FDD77F","text":"о "},{"color":"#FDDC85","text":"н"},{"color":"#FDE28B","text":"о"},{"color":"#FEE892","text":"в"},{"color":"#FEED98","text":"о"},{"color":"#FEF39E","text":"г"},{"color":"#FFF8A5","text":"о"},{"color":"#FFFEAB","text":"⊷"}],"text":"            "}
+Players: 0/100
+Server: 2.59.135.247 is online
+Motd: {"text":"Vulva MC Server"}
+Version: Velocity 1.7.2-1.20.1
+ 
+Players: 0/5
+Version: 1.19.3
+ 
+Server: 5.196.185.1 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/5
+Version: 1.18.2
+ 
+Server: 4.233.135.204 is online
+Motd: {"text":"Crazy Craft Updated... Crazy? I was Crazy Once-"}
+Players: 0/69
+Version: 1.16.5
+ 
+Server: 5.182.206.4 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.18.2
+ 
+Server: 3.121.126.38 is online
+Server: 5.9.72.183 is online
+Motd: Waf-Clan
+Motd: NovaSmp.
+Players: 0/100
+Players: 0/100
+Version: >=1.8b/1.3
+Version: >=1.8b/1.3
+ 
+ 
+Server: 5.9.178.30 is online
+Server: 5.75.229.115 is online
+Motd: {"text":"§9ÍFS"}
+Server: 5.187.6.122 is online
+Server: 5.135.187.152 is online
+Server: 2.56.97.172 is online
+Server: 5.9.5.144 is online
+Server: 5.9.143.126 is online
+Server: 5.181.15.28 is online
+Server: 2.56.245.15 is online
+Server: 5.39.47.108 is online
+Server: 5.249.161.164 is online
+Server: 5.135.86.59 is online
+Server: 5.196.99.130 is online
+Server: 5.9.119.233 is online
+Server: 5.9.31.116 is online
+Server: 5.39.22.217 is online
+Server: 5.9.62.197 is online
+Server: 5.9.60.167 is online
+Server: 5.180.255.9 is online
+Server: 5.230.29.44 is online
+Server: 5.196.185.29 is online
+Server: 5.45.109.51 is online
+Motd: {"text":"gameserver.smtpd.de"}
+Motd: {"extra":[{"extra":[{"color":"#FF0303","text":"Phoenixcraft.eu"},{"text":" "},{"color":"gold","text":"["},{"color":"#FF0AFB","text":"1.8.x"},{"color":"gold","text":"-"},{"color":"#FF0AFB","text":"1.19.x"},{"color":"gold","text":"]"}],"text":"             "},{"text":"\n"},{"extra":[{"color":"dark_blue","text":">>"},{"text":" "},{"color":"#2AFF17","text":"TNTRun"},{"text":" "},{"color":"#AD0023","text":"Bedwars "},{"color":"#FFFF19","text":"Among Us"},{"text":" "},{"color":"dark_blue","text":"<<"}],"text":"           "}],"text":""}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"Leons Minecraft Server"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"Minecraft Server by Gnom"}
+Motd: {"extra":[{"text":"         "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00D1EF","text":"Smart S"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00CDED","text":"u"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00C5E9","text":"r"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00BDE4","text":"v"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00B5E0","text":"i"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00ADDC","text":"v"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#00A5D7","text":"a"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#009DD3","text":"l"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#CCD4DC","text":"- "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FCBC24","text":"Release 4.6"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"\n "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FCFCAC","text":"            Made by Dream Developments"}],"text":""}
+Motd: {"color":"gold","text":"ZENO Community"}
+Motd: {"text":"ValleJay und OekoZocker Minecraft"}
+Motd: {"extra":[{"text":"SANSELME Family Survival"}],"text":""}
+Motd: {"text":"§d§oSkyFactory 4: Server§r - §4v4.2.4"}
+Players: 0/20
+Motd: {"text":"Moin was geht, wenn irgendwas nicht funktioniert einfach an mich wenden. Gruß Eric"}
+Motd: {"text":"Liffis und Hagens Minecraft Server"}
+Motd: {"text":"Private Vanilla's Minecraft Server: all data are journalized at 3:00 AM and retained to one week. "}
+Motd: "A CreeperHost Server!"
+Motd: {"text":"O servidor dos amigos do Pedro"}
+Motd: {"text":"Minehammer"}
+Server: 3.70.192.69 is online
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Players: 0/20
+Players: 0/10
+Players: 0/20
+Players: 0/20
+Players: 0/5
+Players: 0/20
+Players: 0/20
+Players: 0/20
+Players: 0/10
+Players: 0/1
+Players: 0/10
+Players: 0/20
+Players: 0/24
+Players: 0/20
+Version: Paper 1.19.4
+Players: 0/4
+Players: 0/30
+Version: 1.20.1
+Players: 0/20
+Players: 0/20
+Players: 0/8
+Players: 0/4
+Players: 0/20
+Server: 5.45.110.50 is online
+Server: 3.121.208.0 is online
+Server: 5.181.15.238 is online
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"text":"Our Private DoGooo SMP"}
+Motd: {"extra":[{"text":"Hello world"}],"text":""}
+Version: forge arclight/Trials 1.20.1
+Version: Spigot 1.18.2
+Version: Velocity 1.7.2-1.20
+Version: 1.12.2
+Version: 1.18.2
+Players: 0/20
+Version: 1.19.2
+Version: 1.18.1
+Version: 1.20
+Version: Spigot 1.19.2
+Version: CraftBukkit 1.15.2
+Version: 1.18.2
+Version: 1.7.10
+Version: 1.14
+ 
+Version: Paper 1.20
+Version: 1.19.2
+Version: Paper 1.20.1
+ 
+Version: Paper 1.19.3
+Version: 1.19
+Server: 5.83.180.119 is online
+Version: 1.19.2
+Version: Paper 1.20.1
+Server: 5.196.220.177 is online
+Version: 1.19.3
+ 
+ 
+ 
+Players: 0/4
+Server: 5.135.38.173 is online
+ 
+ 
+ 
+ 
+Motd: {"text":"A Minecraft Server"}
+Server: 5.181.13.145 is online
+ 
+ 
+ 
+ 
+ 
+ 
+Motd: {"text":"§2OhanaCraft §41.11.2"}
+ 
+Players: 0/20
+ 
+ 
+ 
+ 
+Players: 0/10
+Motd: {"text":"Xite SMP"}
+Version: 1.19.2
+ 
+Server: 5.252.226.204 is online
+ 
+ 
+Server: 5.181.15.94 is online
+Server: 5.39.1.80 is online
+Players: 0/20
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"text":"Serwerek §mnie§bpokojowy §r§o(forge-1.16.5-36.2.0)§r\n§oLista modów: https://mcf2.artrek.ovh/"}
+Players: 0/10
+Version: Spigot 1.19.2
+ 
+Players: 0/50
+Version: Spigot 1.11.2
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Motd: {"text":"A CreeperHost Server!"}
+Version: 1.20.1
+Players: 0/10
+Players: 0/20
+ 
+Version: 1.19.2
+ 
+ 
+Players: 0/20
+Version: Paper 1.20.1
+Players: 0/10
+Version: 1.19.2
+Version: 1.16.5
+ 
+ 
+Version: 1.19.4
+Version: 1.18.2
+ 
+ 
+ 
+ 
+Server: 5.181.15.19 is online
+Server: 5.181.14.188 is online
+Server: 5.181.15.69 is online
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Players: 0/10
+Players: 0/10
+Version: 1.18.2
+Version: 1.18.2
+Version: 1.19.2
+ 
+ 
+ 
+Server: 5.62.107.210 is online
+Motd: {"text":"nitrado.net gameserver"}
+Players: 0/4
+Server: 5.196.185.48 is online
+Motd: {"text":"A Minecraft Server"}
+Version: 1.16.4
+ 
+Players: 0/40
+Server: 5.38.228.200 is online
+Version: 1.12.2
+Motd: {"text":"A Minecraft Server"}
+ 
+Players: 0/20
+Server: 5.133.9.94 is online
+Server: 5.189.138.110 is online
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"A Minecraft Server"}
+Version: 1.20.1
+Server: 5.181.14.189 is online
+Server: 5.181.15.142 is online
+Motd: {"text":"A CreeperHost Server!"}
+ 
+Motd: {"text":"A CreeperHost Server!"}
+Players: 0/10
+Players: 0/20
+Server: 5.181.13.66 is online
+Server: 5.9.153.166 is online
+Motd: {"text":"Dulliserver aka Spontanentscheidung"}
+Players: 0/10
+Motd: "GT New Horizons 2.3.0-RC1"
+Version: 1.19.4
+Players: 0/10
+Version: 1.20
+Version: 1.16.5
+ 
+Players: 0/20
+ 
+Players: 0/10
+Version: 1.16.5
+ 
+Version: 1.19.2
+Version: 1.7.10
+ 
+Server: 4.225.161.116 is online
+ 
+ 
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20.1
+ 
+Server: 3.249.231.167 is online
+Server: 2.125.115.138 is online
+Motd: {"text":"TDFC7 - throws chair out of window"}
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Server: 5.189.162.71 is online
+Motd: {"text":"Kallis Life in the Village 2 Server"}
+Players: 0/20
+Players: 0/20
+Server: 5.9.55.194 is online
+Motd: {"text":"Wld427 Minecraft 1.18.2"}
+Version: 1.15.2
+Players: 0/5
+Version: 1.20.1
+Server: 5.61.35.94 is online
+ 
+Players: 0/10
+Version: 1.16.5
+Motd: {"text":"A Forge Minecraft Server powered by Docker"}
+ 
+Players: 0/20
+Version: 1.18.2
+ 
+Version: 1.19.2
+ 
+ 
+Server: 5.196.237.242 is online
+Server: 5.159.102.201 is online
+Motd: {"text":"A Kukold Server"}
+Motd: {"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"  ║"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"¡BIENVENIDO"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":" A"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":" MINRECRAFT"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":" EXTREMO!"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"║"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_green","text":"║"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"¡Intenta sobrevivir"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":" solo tienes 3 vidas!"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_green","text":"║"}],"text":""}
+Players: 0/100
+Players: 0/20
+Version: Paper 1.20.1
+Version: Spigot 1.19.2
+ 
+ 
+Server: 5.42.84.202 is online
+Motd: {"text":"Asteria Creative"}
+Players: 0/10
+Version: Paper 1.16.5
+Server: 5.189.154.65 is online
+ 
+Motd: {"text":"A Minecraft Server"}
+Server: 5.64.197.232 is online
+Players: 0/20
+Motd: {"text":"DawnCraft Sou"}
+Version: Paper 1.19.4
+Players: 0/50
+Server: 2.59.134.208 is online
+Motd: {"text":"A Minecraft Server"}
+Version: 1.18.2
+ 
+Server: 5.12.80.102 is online
+Motd: {"text":"sugimypula"}
+ 
+Players: 0/187
+Players: 0/20
+Version: 1.20.1
+Version: 1.20.1
+ 
+ 
+Server: 5.178.87.2 is online
+Motd: {"text":"A Minecraft Server"}
+Server: 5.182.207.21 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: 1.20
+Players: 0/20
+Server: 5.146.241.1 is online
+Version: 1.20.1
+Motd: {"text":"All the Mods 8"}
+ 
+Players: 0/20
+ 
+Version: 1.19.2
+ 
+Server: 5.182.206.159 is online
+Motd: TTTCommunity - Old but gold - [1.8-1.19]
+Server: 5.196.185.36 is online
+Motd: {"text":"§6§l     ULT§r§l_§5§lC§5§l§kO§5§lM | §bSupervivencia de gran nivel§r\n§6      ➥ §fCompatible solo con Forge 1.20.1"}
+Players: 0/100
+Version: >=1.8b/1.3
+Players: 0/25
+ 
+Version: 1.20.1
+Server: 5.196.44.195 is online
+ 
+Motd: {"text":"A Minecraft Server"}
+Players: 0/20
+Version: Paper 1.20
+ 
+Server: 5.9.21.235 is online
+Motd: "Craftserve.pl - wydajny hosting Minecraft!\nTestuj za darmo przez 24h!"
+Players: 0/1
+Version: ???
+ 
+Server: 5.101.51.66 is online
+Server: 5.45.104.210 is online
+Motd: {"text":"A Minecraft Server"}
+Motd: {"text":"HeavyHelmuds Minecraft Server"}
+Players: 0/20
+Players: 0/5
+Version: Spigot 1.11.2
+Version: 1.20.1
+ 
+ 
+Server: 5.62.124.80 is online
+Motd: {"text":"nitrado.net gameserver"}
+Players: 0/8
+Server: 5.181.15.228 is online
+Server: 5.83.164.148 is online
+Server: 5.199.139.16 is online
+Motd: {"text":"A CreeperHost Server!"}
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+Motd: {"text":"nitrado.net All the Mods 7 - To the Sky Server"}
+Version: Paper 1.18.1
+ 
+Players: 0/20
+Players: 0/10
+Players: 0/4
+Server: 5.45.99.57 is online
+Version: 1.18.2
+Version: Spigot 1.19.4
+Version: 1.19.2
+Motd: {"text":"A Minecraft Server"}
+ 
+ 
+Players: 0/5
+ 
+Version: 1.19.2
+ 
+Server: 2.59.41.204 is online
+Motd: {"text":"ÐÑÐµÐ°ÑÐ¸Ð² ÑÐµÑÐ²ÐµÑ"}
+Players: 0/20
+Version: Paper 1.19.4
+ 
+Server: 5.9.209.126 is online
+Server: 5.75.254.144 is online
+Motd: {"text":"Lunchbreaktime Modded"}
+Motd: {"text":"1.20 Minecraft Server"}
+Server: 5.196.14.13 is online
+Players: 0/20
+Motd: {"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_purple","text":"0000"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"--¤--^] "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_red","text":"000"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"LaPomme Server's 1.20.1"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_red","text":"000"},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":" [^--¤--"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":" "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"dark_purple","text":"0000"}],"text":""}
+Players: 0/69
+Players: 0/999
+Version: 1.19.2
+Version: Paper 1.20.1
+ 
+Version: Spigot 1.20.1
+ 
+ 
+Server: 5.139.122.249 is online
+Server: 5.9.5.42 is online
+Motd: Пельменная <3 | Вкусное выживание.
+Motd: {"text":"A Minecraft Server"}
+Server: 5.181.134.125 is online
+Players: 0/20
+Motd: {"text":"A Minecraft Server"}
+Players: 0/1
+Server: 3.78.181.38 is online
+Players: 0/20
+Motd: {"text":"A Vanilla Minecraft Server powered by Docker"}
+Version: 1.19.2
+Version: >=1.8b/1.3
+ 
+ 
+Players: 0/20
+Version: 1.19.4
+ 
+Server: 5.153.123.211 is online
+Version: 1.20.1
+Server: 2.85.238.199 is online
+Motd: {"text":"Lets crash this!"}
+Motd: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+ 
+Players: 0/20
+Players: 0/30
+Version: Paper 1.17.1
+Version: Paper 1.16.4
+ 
+ 
+Server: 5.10.60.225 is online
+Motd: {"text":"Ixmotraspberrymc"}
+Server: 2.58.113.62 is online
+Motd: "§f§8   §8× §6§lSpliceMC.net§6§l §8- §7Minigames Netzwerk §8[§31§8.§38§8.§3X§8] ×\n      §8 × §aNeuer Modus§7 + §eNeue Maps §8- §6Open Beta §8×"
+Players: 0/3
+Server: 2.108.206.253 is online
+Motd: {"text":"Scrubcraft Server"}
+Version: Paper 1.19.1
+Players: 0/100
+Players: 0/20
+ 
+Server: 5.181.15.235 is online
+Version: §70/100
+ 
+Motd: {"text":"A CreeperHost Server!"}
+Version: 1.18.2
+ 
+Players: 0/10
+Version: 1.12.2
+ 
+Server: 5.182.205.66 is online
+Motd: {"extra":[{"clickEvent":{"action":"open_url","value":"http://SpexMC.eu"},"text":"SpexMC.eu"},{"text":" Spigot 1.20 Server"}],"text":""}
+Players: 0/50
+Version: Spigot 1.20.1
+ 
+Server: 5.196.208.221 is online
+Motd: {"text":"A Minecraft Server"}
+Players: 0/75
+Version: Paper 1.19.4
+ 
+Server: 5.181.15.16 is online
+Motd: {"text":"§6§k231312\\Hello World!"}
+Players: 0/2
+Version: 1.19.2
+ 
+Server: 5.161.90.251 is online
+Motd: {"text":"§n§3New Modded Minecraft Server§r §l§6§o**10 THINGS YOU DID NOT KNOW** §a§o§n**NUMBER 9 WILL SHOCK YOU**"}
+Players: 0/20
+Version: 1.19.2
+ 
+Server: 5.181.15.71 is online
+Motd: {"text":"A CreeperHost Server!"}

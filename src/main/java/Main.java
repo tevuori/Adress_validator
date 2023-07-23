@@ -7,13 +7,24 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class Main {
+    public static MysqlSetterGetter sql;
+
     public static void main (String[] args) throws IOException {
+        //Database
+
+        sql = new MysqlSetterGetter();
+        Main main = new Main();
+        main.mysqlSetup();
+
         List<String> ips = new ArrayList<>();
         //Run the entire shit with multithreading
 
@@ -59,6 +70,7 @@ public class Main {
 
                         try {
                             saveDataTofile(p6);
+                            MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
                         } catch (IOException e) {
                             throw new RuntimeException(e);
                         }
@@ -130,5 +142,57 @@ public class Main {
         FileWriter fw = new FileWriter(path.toFile(), true);
         fw.write(str + "\n");
         fw.close();
+    }
+
+
+    //database setup
+
+    public void mysqlSetup(){
+        host = "34.116.185.67";
+        port = 3306;
+        database = "dadta";
+        username = "address_validator";
+        password = "elotyblbe";
+        table = "servers";
+
+        try{
+
+            synchronized (this){
+
+                if(getConnection() != null && !getConnection().isClosed()){
+                    return;
+                }
+
+                Class.forName("com.mysql.jdbc.Driver");
+                setConnection(DriverManager.getConnection("jdbc:mysql://" + this.host + ":" + this.port + "/" + this.database, this.username, this.password));
+
+                System.out.println("Connected to database");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }catch(ClassNotFoundException e){
+            e.printStackTrace();
+        }
+
+    }
+    private static Connection connection;
+    public static String host;
+    public static String database;
+    public static String username;
+    public static String password;
+    public static String table;
+    public static int port;
+
+    public static Connection getConnection() {
+        return connection;
+    }
+
+    public void setConnection(Connection connection) {
+        this.connection = connection;
+
+    }
+    public void disconnect(Connection connection) throws SQLException {
+        this.connection.close();
+
     }
 }
