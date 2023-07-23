@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="example">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/PacketLib-master/example" />
+      <root url="file://$USER_HOME$/Desktop/PacketLib-master/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

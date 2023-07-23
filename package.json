@@ -1,0 +1,7 @@
+{
+  "name": "Adress_validator",
+  "version": "1.0.0",
+  "dependencies": {
+    "minecraft-protocol": "^1.43.2"
+  }
+}
