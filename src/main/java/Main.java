@@ -1,4 +1,9 @@
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
 import me.dilley.MineStat;
+import org.bson.Document;
 import org.json.JSONException;
 
 import java.io.File;
@@ -19,16 +24,21 @@ public class Main {
     public static MysqlSetterGetter sql;
 
     public static void main (String[] args) throws IOException {
-        //Database
+        //Database MYsql
 
         sql = new MysqlSetterGetter();
         Main main = new Main();
-        main.mysqlSetup();
+        //main.mysqlSetup();
+
+        //Database MongoDb
+        MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
+        MongoDatabase database = mongoClient.getDatabase("data");
+        database.createCollection("servers");
 
         List<String> ips = new ArrayList<>();
         //Run the entire shit with multithreading
 
-        ExecutorService executor = Executors.newFixedThreadPool(1000);
+        ExecutorService executor = Executors.newFixedThreadPool(50000);
 
         //Read file from ips.txt and convert it into usable ArrayList
 
@@ -56,21 +66,30 @@ public class Main {
                 String p2 = "Motd: " + ms.getMotd();
                 String p3 = "Players: " + ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers();
                 String p4 = "Version: " + ms.getVersion();
-                String p5 = " ";
+                String p6 = " ";
 
                 if(ms.isServerUp()){
                     if(ms.getCurrentPlayers()>=1){
-                        String p6 = "Players: "; //This is the list of players
+                        String p5 = "Players: "; //This is the list of players
                         try {
-                            p6 = selfscan.getThem(ip).toString();
+                            p5 = selfscan.getThem(ip).toString();
                         } catch (JSONException e) {
                             throw new RuntimeException(e);
                         }
-                        System.out.println(p6);
+                        System.out.println(p5);
 
                         try {
-                            saveDataTofile(p6);
-                            MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
+                            saveDataTofile(p5);
+                            //MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
+                            //Mongob
+                            MongoCollection<Document> collection = database.getCollection("servers");
+                            Document document = new Document();
+                            document.put("ip", ip);
+                            document.put("motd", ms.getMotd());
+                            document.put("version", ms.getVersion());
+                            document.put("player_count", ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers());
+                            document.put("players", p5);
+                            collection.insertOne(document);
                         } catch (IOException e) {
                             throw new RuntimeException(e);
                         }
@@ -81,7 +100,7 @@ public class Main {
                 System.out.println(p2);
                 System.out.println(p3);
                 System.out.println(p4);
-                System.out.println(p5);
+                System.out.println(p6);
 
                 //Try to write the data into output.txt file
 
@@ -106,7 +125,7 @@ public class Main {
                     throw new RuntimeException(e);
                 }
                 try {
-                    saveDataTofile(p5);
+                    saveDataTofile(p6);
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
@@ -148,11 +167,11 @@ public class Main {
     //database setup
 
     public void mysqlSetup(){
-        host = "34.116.185.67";
+        host = "pro.freedb.tech";
         port = 3306;
-        database = "dadta";
-        username = "address_validator";
-        password = "elotyblbe";
+        database = "database20";
+        username = "DummyUsername1";
+        password = "DummyUsernamePassword1";
         table = "servers";
 
         try{
