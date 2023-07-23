@@ -48,7 +48,7 @@ public class Main {
                 String p5 = " ";
 
                 if(ms.isServerUp()){
-                    if(ms.getCurrentPlayers()>1){
+                    if(ms.getCurrentPlayers()>=1){
                         String p6 = "Players: "; //This is the list of players
                         try {
                             p6 = selfscan.getThem(ip).toString();

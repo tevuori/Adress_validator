@@ -51,6 +51,9 @@ public class selfscan {
         }
         System.out.println(players);
 
+        //Remove version from desired List
+
+        players.removeIf(s -> s.contains("."));
         return players;
     }
 }
