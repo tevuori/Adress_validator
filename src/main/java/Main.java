@@ -33,12 +33,14 @@ public class Main {
         //Database MongoDb
         MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
         MongoDatabase database = mongoClient.getDatabase("data");
-        database.createCollection("servers");
+        MongoCollection<Document> colstart = database.getCollection("servers");
+        colstart.deleteMany(new Document());
+
 
         List<String> ips = new ArrayList<>();
         //Run the entire shit with multithreading
 
-        ExecutorService executor = Executors.newFixedThreadPool(50000);
+        ExecutorService executor = Executors.newFixedThreadPool(2000);
 
         //Read file from ips.txt and convert it into usable ArrayList
 
@@ -71,11 +73,7 @@ public class Main {
                 if(ms.isServerUp()){
                     if(ms.getCurrentPlayers()>=1){
                         String p5 = "Players: "; //This is the list of players
-                        try {
-                            p5 = selfscan.getThem(ip).toString();
-                        } catch (JSONException e) {
-                            throw new RuntimeException(e);
-                        }
+                        p5 = selfscan.getThem(ip).toString();
                         System.out.println(p5);
 
                         try {
