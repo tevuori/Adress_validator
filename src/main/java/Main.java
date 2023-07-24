@@ -60,95 +60,53 @@ public class Main {
 
         //Try to use every valid address in the ArrayList and get basic information (status, motd, players...). If the server is not online it will be noted
 
+        final String PORT = "25565";
         for (String ip : ips) {
             executor.execute(() -> {
-            MineStat ms = new MineStat(ip, Integer.parseInt("25565"));
-            if (ms.isServerUp()) {
-                String p1 ="Server: " + ip + " is online";
-                String p2 = "Motd: " + ms.getMotd();
-                String p3 = "Players: " + ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers();
-                String p4 = "Version: " + ms.getVersion();
-                String p6 = " ";
-
-                if(ms.isServerUp()){
+                MineStat ms = new MineStat(ip, Integer.parseInt(PORT));
+                StringBuilder sb = new StringBuilder();
+                if (ms.isServerUp()) {
+                    sb.append("Server: ").append(ip).append(" is online\n");
+                    sb.append("Motd: ").append(ms.getMotd()).append("\n");
+                    sb.append("Players: ").append(ms.getCurrentPlayers()).append("/").append(ms.getMaximumPlayers()).append("\n");
+                    sb.append("Version: ").append(ms.getVersion()).append("\n");
+                    sb.append(" ");
                     if(ms.getCurrentPlayers()>=1){
                         String p5 = "Players: "; //This is the list of players
                         p5 = selfscan.getThem(ip).toString();
                         System.out.println(p5);
-
-                        try {
-                            saveDataTofile(p5);
-                            //MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
-                            //Mongob
-                            MongoCollection<Document> collection = database.getCollection("servers");
-                            Document document = new Document();
-                            document.put("ip", ip);
-                            document.put("motd", ms.getMotd());
-                            document.put("version", ms.getVersion());
-                            document.put("player_count", ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers());
-                            document.put("players", p5);
-                            collection.insertOne(document);
-                        } catch (IOException e) {
-                            throw new RuntimeException(e);
-                        }
+                        sb.append(p5).append("\n");
+                        //MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
+                        //Mongob
+                        MongoCollection<Document> collection = database.getCollection("servers");
+                        Document document = new Document();
+                        document.put("ip", ip);
+                        document.put("motd", ms.getMotd());
+                        document.put("version", ms.getVersion());
+                        document.put("player_count", ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers());
+                        document.put("players", p5);
+                        collection.insertOne(document);
+                    }
+                    System.out.println(sb.toString());
+                    //Try to write the data into output.txt file
+                    try {
+                        saveDataTofile(sb.toString());
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                } else {
+                    String q1 = "Server: " + ip + " is offline";
+                    String q2 = " ";
+                    System.out.println(q1);
+                    System.out.println(q2);
+                    //Try to write the data into output.txt file
+                    try {
+                        saveDataTofile(q1 + "\n" + q2);
+                    } catch (IOException e) {
+                        e.printStackTrace();
                     }
                 }
-
-                System.out.println(p1);
-                System.out.println(p2);
-                System.out.println(p3);
-                System.out.println(p4);
-                System.out.println(p6);
-
-                //Try to write the data into output.txt file
-
-                try {
-                    saveDataTofile(p1);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-                try {
-                    saveDataTofile(p2);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-                try {
-                    saveDataTofile(p3);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-                try {
-                    saveDataTofile(p4);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-                try {
-                    saveDataTofile(p6);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-
-
-            } else {
-                String q1 = "Server: " + ip + " is offline";
-                String q2 = " ";
-                /*System.out.println(q1);
-                System.out.println(q2);
-
-                //Try to write the data into output.txt file
-
-                try {
-                    saveDataTofile(q1);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-                try {
-                    saveDataTofile(q2);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }*/
-            }
-        });
+            });
         }
 
     }
