@@ -71,22 +71,28 @@ public class Main {
                     sb.append("Players: ").append(ms.getCurrentPlayers()).append("/").append(ms.getMaximumPlayers()).append("\n");
                     sb.append("Version: ").append(ms.getVersion()).append("\n");
                     sb.append(" ");
+
+                    String p5 = ""; //This is the list of players
                     if(ms.getCurrentPlayers()>=1){
-                        String p5 = "Players: "; //This is the list of players
                         p5 = selfscan.getThem(ip).toString();
                         System.out.println(p5);
                         sb.append(p5).append("\n");
-                        //MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
-                        //Mongob
-                        MongoCollection<Document> collection = database.getCollection("servers");
-                        Document document = new Document();
-                        document.put("ip", ip);
-                        document.put("motd", ms.getMotd());
-                        document.put("version", ms.getVersion());
-                        document.put("player_count", ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers());
-                        document.put("players", p5);
-                        collection.insertOne(document);
                     }
+                    else{
+                        p5 = "No players online";
+                        sb.append("No players online").append("\n");
+                    }
+                    //MysqlSetterGetter.createRecord(ip, ms.getMotd(),ms.getVersion(), ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers(), p6);
+                    //Mongob
+                    MongoCollection<Document> collection = database.getCollection("servers7");
+                    Document document = new Document();
+                    document.put("ip", ip);
+                    document.put("motd", ms.getMotd());
+                    document.put("version", ms.getVersion());
+                    document.put("player_count", ms.getCurrentPlayers() + "/" + ms.getMaximumPlayers());
+                    document.put("players", p5);
+                    collection.insertOne(document);
+
                     System.out.println(sb.toString());
                     //Try to write the data into output.txt file
                     try {
